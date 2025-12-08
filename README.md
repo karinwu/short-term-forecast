@@ -1,5 +1,16 @@
 # Short-Term Forecast with MLOps
-This repo is a tool for structuring, transforming data science project. It is predicting short term forecast for behaviral change. The project incorporates MLOps best practices and focuses on developing models for short-term forecasting.
+This repository provides a structured and reproducible framework for short-term forecasting projects leveraging MLOps principles.
+
+It focuses on predicting short-term behavioral changes and electricity consumption patterns using advanced time-series and graph-based models.
+
+# 🚀 Overview
+This project demonstrates how to:
+
+* Structure and organize a data science project within an MLOps pipeline.
+
+* Implement forecasting models integrating neural, graph-based, and traditional time-series methods.
+
+* Ensure reproducibility, scalability, and experiment tracking using MLflow.
 
 ## MLOps: MLFlow Tracker
 
